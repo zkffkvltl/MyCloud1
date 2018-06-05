@@ -1,14 +1,62 @@
 <template>
-  <section class="hero is-medium is-light is-bold">
-
+  <section class="section">
+<div class="hero is-medium is-light is-bold">
     <div class="hero-body">
        <div class="container has-text-centered">
          <h1 class="title is-1">Test</h1>
          <h2 class="subtitle">Test for cloudserver</h2>
        </div>
    </div>
+   <nav class="level">
+  <p class="level-item has-text-centered">
+    <a class="link is-info">Home</a>
+  </p>
+  <p class="level-item has-text-centered">
+    <a class="link is-info">Menu</a>
+  </p>
+</nav>
+</div>
 
-   <br>
+
+<div class="message is-dark">
+  <div class="message-header">
+  </div>
+  <div class="container is-widescreen">
+  <div class="notification">
+
+
+<div class="columns is-mobile has-text-centered">
+  <div class="column">
+    
+    <figure class="image is-128x128">
+        <img src="~static/console.png" alt="">
+    </figure>
+    <div class="content">
+    <p class="">1</p>
+    </div>
+  </div>
+  <div class="column">
+    <figure class="image is-128x128">
+
+    </figure>
+    2
+  </div>
+  <div class="column">
+    <figure class="image is-128x128">
+
+    </figure>
+    3
+  </div>
+
+</div>
+
+  </div>
+  </div>
+</div>
+
+<div class="colums">
+ 
+</div>
 <!--<div>
       <app-logo/>
       <h1 class="title">

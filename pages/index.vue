@@ -3,15 +3,16 @@
 <div class="hero is-medium is-light is-bold">
     <div class="hero-body">
        <div class="container has-text-centered">
-         <h1 class="title is-1">Test</h1>
+         <h1 class="title is-1">포트폴리오</h1>
          <h2 class="subtitle">Test for cloudserver</h2>
        </div>
    </div>
-   <nav class="level">
-  <p class="level-item has-text-centered">
+   <nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <p class="navbar-item">
     <a class="link is-info">Home</a>
-  </p>
-  <p class="level-item has-text-centered">
+   </p>
+     <p class="navbar-item">
     <a class="link is-info">Menu</a>
   </p>
 </nav>
@@ -22,7 +23,7 @@
   <div class="message-header">
   </div>
   <div class="container is-widescreen">
-  <div class="notification">
+  <div class="notificatio">
 
 
 <div class="columns is-mobile has-text-centered">

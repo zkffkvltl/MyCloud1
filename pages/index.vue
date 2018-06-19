@@ -12,7 +12,7 @@
 <nav class="navbar is-black">
   <div class="navbar-menu">
     <div class="navbar-start">
-      <nuxt-link to="/index" class="navbar-item">
+      <nuxt-link to="" class="navbar-item">
         Home
       </nuxt-link>
       <nuxt-link to="/about_1" class="navbar-item">

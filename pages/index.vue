@@ -12,15 +12,15 @@
 <nav class="navbar is-black">
   <div class="navbar-menu">
     <div class="navbar-start">
-      <a class="navbar-item" href="http://www.oins.ml">
+      <nuxt-link to="/index" class="navbar-item">
         Home
-      </a>
-      <a class="navbar-item" href="http://www.oins.ml/page/about_1/">
-         Test_1
-        </a>
-      <a class="navbar-item" href="http://www.oins.ml/page/about_2/">
-         Test_2
-      </a>
+      </nuxt-link>
+      <nuxt-link to="/about_1" class="navbar-item">
+         PHP게시판
+        </nuxt-link>
+      <nuxt-link to="/about_2" class="navbar-item">
+         JAVA슈팅게임
+      </nuxt-link>
    </div>
  </div>
 </nav>
@@ -115,6 +115,7 @@
       <br>
       <time datetime="2017">2017</time>
     </div>
+  <nuxt-link to="/about_1" class="button is-info is-outlined">PHP 게시판 자세히</nuxt-link>
   </div>
 </div>
 </div>
@@ -139,6 +140,7 @@
       <br>
       <time datetime="2018">2018</time>
     </div>
+    <nuxt-link to="/about_2" class="button is-info is-outlined">JAVA 슈팅게임 자세히</nuxt-link>
   </div>
 </div>
 </div>
@@ -180,6 +182,10 @@
 </template>
 
 <script>
+
+
+
+
 /*
 import AppLogo from '~/components/AppLogo.vue'
 
@@ -188,6 +194,7 @@ export default {
     AppLogo
   }
 }*/
+
 </script>
 
 <!--

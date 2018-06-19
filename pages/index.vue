@@ -15,10 +15,10 @@
       <nuxt-link to="" class="navbar-item">
         Home
       </nuxt-link>
-      <nuxt-link to="/about_1" class="navbar-item">
+      <nuxt-link to="/blog" class="navbar-item">
          PHP게시판
         </nuxt-link>
-      <nuxt-link to="/about_2" class="navbar-item">
+      <nuxt-link to="/shootinggame" class="navbar-item">
          JAVA슈팅게임
       </nuxt-link>
    </div>
@@ -115,7 +115,7 @@
       <br>
       <time datetime="2017">2017</time>
     </div>
-  <nuxt-link to="/about_1" class="button is-info is-outlined">PHP 게시판 자세히</nuxt-link>
+  <nuxt-link to="/blog" class="button is-info is-outlined">PHP 게시판 자세히</nuxt-link>
   </div>
 </div>
 </div>
@@ -140,7 +140,7 @@
       <br>
       <time datetime="2018">2018</time>
     </div>
-    <nuxt-link to="/about_2" class="button is-info is-outlined">JAVA 슈팅게임 자세히</nuxt-link>
+    <nuxt-link to="/shootinggame" class="button is-info is-outlined">JAVA 슈팅게임 자세히</nuxt-link>
   </div>
 </div>
 </div>

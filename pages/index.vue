@@ -7,16 +7,21 @@
          <h2 class="subtitle">Test for cloudserver</h2>
        </div>
    </div>
-   <nav class="navbar" role="navigation" aria-label="main navigation">
-  <div class="navbar-brand">
-    <p class="navbar-item">
-    <a class="link is-info">Home</a>
-   </p>
-     <p class="navbar-item">
-    <a class="link is-info">Menu</a>
-  </p>
-</nav>
 </div>
+
+<nav class="navbar">
+  <div class="navbar-menu">
+    <div class="navbar-start">
+      <a class="navbar-item" href="http://www.oins.ml">
+        Home
+      </a>
+    <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link" href="http://www.oins.ml/about_1">
+          Docs
+        </a>
+    </div>
+  </div>
+</nav>
 
 
 <div class="message is-dark">

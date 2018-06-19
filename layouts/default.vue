@@ -1,15 +1,7 @@
 <template>
   <div>
     <div>
-    <nav class = "navbar">
-      
-      <div class="navbar-menu is-active">
-        <div class="navbar-end">
-          <nuxt-link to="/about_1" class="navber-item">제작1</nuxt-link>
-          <nuxt-link to="/about_2" class="navbar-item">제작2</nuxt-link>
-        </div>
-      </div>
-    </nav>
+  
     <nuxt/>
   <footer class="footer has-text-centered">
     <div>2018.포트폴리오</div>

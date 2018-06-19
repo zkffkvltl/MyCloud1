@@ -4,7 +4,7 @@
   
     <nuxt/>
   <footer class="footer has-text-centered">
-    <div>2018.포트폴리오</div>
+    <div>2018.06.포트폴리오</div>
   </footer>
   </div>
   

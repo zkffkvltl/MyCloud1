@@ -13,19 +13,10 @@
       </div>
       <div class="message-body">
           <br>
-          <div class="file">
-    <label class="file-label">
-    <input class="file-input" type="file" name="resume">
-    <span class="file-cta">
-      <span class="file-icon">
-        <i class="fas fa-upload"></i>
-      </span>
-      <span class="file-label">
-        Choose a file
-      </span>
-    </span>
-    </label>
-    </div>
+          <figure class="image is-128x128">
+            <img src="~static/blog.png" alt="">
+          </figure>
+          <br>
       </div>
     </article>
 
